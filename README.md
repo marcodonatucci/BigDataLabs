@@ -9,39 +9,6 @@ This repository contains laboratory exercises for the **Big Data Processing and 
 - **Academic Year**: 2024-2025
 - **Technologies**: Apache Spark, PySpark, Spark SQL, Spark MLlib
 
-## Repository Structure
-
-```
-BigDataLabs/
-├── lab5/                           # Word frequency analysis with Apache Spark
-│   ├── Lab5_BigData_2024_2025.pdf  # Lab instructions
-│   ├── SampleLocalFile.csv         # Sample dataset
-│   └── lab5_notebook.ipynb         # Jupyter notebook solution
-├── lab6/                           # Amazon product co-review analysis
-│   ├── Lab6_BigData_2024_2025.pdf  # Lab instructions
-│   ├── ReviewsSample.csv           # Sample dataset
-│   └── lab6_notebook.ipynb         # Jupyter notebook solution
-├── lab7/                           # Barcelona bike sharing criticality analysis
-│   ├── Lab7_BigData_2024_2025.pdf  # Lab instructions
-│   ├── sampleData/                 # Sample datasets
-│   │   ├── registerSample.csv
-│   │   └── stations.csv
-│   └── lab7_notebook.ipynb         # Jupyter notebook solution
-├── lab8/                           # Bike sharing analysis with Spark SQL
-│   ├── Lab8_BigData_2024_2025.pdf  # Lab instructions
-│   ├── sampleData 2/               # Sample datasets
-│   │   ├── registerSample.csv
-│   │   └── stations.csv
-│   ├── lab8_notebook.ipynb         # Complete notebook with DataFrame & SQL APIs
-│   └── lab8_simple_notebook.ipynb  # Simplified DataFrame-only version
-└── lab9/                           # Machine Learning with Amazon reviews
-    ├── Lab9_BigData_2024_2025.pdf  # Lab instructions
-    ├── ReviewsSample-2.csv         # Sample dataset
-    ├── Lab9_template/              # Provided template
-    │   └── lab9_template.ipynb
-    └── lab9_complete_notebook.ipynb # Complete ML pipeline solution
-```
-
 ## Laboratory Overview
 
 ### Lab 5: Word Frequency Analysis
